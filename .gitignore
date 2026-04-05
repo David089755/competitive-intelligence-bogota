@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 
-# outputs (opcional, puedes excluir debug pesado)
+# outputs
 output/debug_json/
 output/debug_menu_json_before/
 output/debug_menu_json_after/
