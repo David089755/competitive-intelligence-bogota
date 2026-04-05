@@ -1,0 +1,11 @@
+address_id,address_text,zone_type
+1,Chapinero Alto Bogotá,premium
+2,Zona T Bogotá,premium
+3,Parque 93 Bogotá,premium
+4,Usaquén Bogotá,premium
+5,Suba Bogotá,residencial
+6,Engativá Bogotá,residencial
+7,Kennedy Bogotá,residencial
+8,Fontibón Bogotá,residencial
+9,Soacha,periferica
+10,Ciudad Bolívar Bogotá,periferica

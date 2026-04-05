@@ -1,0 +1,44 @@
+[
+  {
+    "idx": 1,
+    "url": "https://r.ingest-lr.com/i?a=ttasrx%2Frappi-webv&r=6-019d5bf9-f98b-79e7-8184-fa0d7856a240&t=76f9e6e1-2223-4618-835d-68eca12be0a4&s=0&ro=t&st=web&rs=0%2Cu",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_after\\1_i.json"
+  },
+  {
+    "idx": 2,
+    "url": "https://www.rappi.com.co/static-checkout/_next/static/build-manifest.json",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_after\\2_build_manifest_json.json"
+  },
+  {
+    "idx": 3,
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/store/brand/id/47636",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_after\\3_47636.json"
+  },
+  {
+    "idx": 4,
+    "url": "https://services.grability.rappi.com/api/web-gateway/web/restaurants-bus/store/id/900084997/",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_after\\4_.json"
+  },
+  {
+    "idx": 5,
+    "url": "https://services.grability.rappi.com/api/ms/address/reverse-geocode?client=locationservices&lat=4.669576641768&lng=-74.054893835113&raw=true",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_after\\5_reverse_geocode.json"
+  },
+  {
+    "idx": 6,
+    "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+    "status": 200,
+    "content_type": "application/json+protobuf; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_after\\6_GetViewportInfo.json"
+  }
+]

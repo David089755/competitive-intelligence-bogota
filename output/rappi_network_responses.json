@@ -1,0 +1,342 @@
+[
+  {
+    "url": "https://images.rappi.com/restaurants_logo/900006519-1505231570.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/kfc-logo1-1568829630230-1668430778631.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/sr-wok-logo1-1568821526912.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/logo-1676146421982-1701970769035.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/40000219-1111.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/download-2-1617909428300-1618319846302.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/221212111111112222-1660245008143.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/presto-logo1-1569006091492.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/nuevologo-1678804198046.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/frisby-logo1-1576160870030-1585159542926-1647550269927.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 401,
+    "content_type": ""
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 401,
+    "content_type": ""
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 401,
+    "content_type": ""
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 401,
+    "content_type": ""
+  },
+  {
+    "url": "https://www.rappi.com.co/mf-header/static/ProductReplacement-88bf7020.js",
+    "status": 200,
+    "content_type": "text/javascript"
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=544894035678829&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=&if=false&ts=1775355287333&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es-CO&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=993&it=1775355287156&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=200737147691461&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=&if=false&ts=1775355287451&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es-CO&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=993&it=1775355287156&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=200737147691461&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=&if=false&ts=1775355287451&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es-CO&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=993&it=1775355287156&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&rqm=FGET",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=544894035678829&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=&if=false&ts=1775355287333&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es-CO&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=993&it=1775355287156&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&rqm=FGET",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://images.rappi.com/home-ab-objects/restaurants_r8.png?e=webp&d=150x150&q=50",
+    "status": 200,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 200,
+    "content_type": "application/json"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 200,
+    "content_type": "application/json"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/900006519-1505231570.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/kfc-logo1-1568829630230-1668430778631.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/40000219-1111.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/frisby-logo1-1576160870030-1585159542926-1647550269927.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/logo-1676146421982-1701970769035.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/nuevologo-1678804198046.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/presto-logo1-1569006091492.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/download-2-1617909428300-1618319846302.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/sr-wok-logo1-1568821526912.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/221212111111112222-1660245008143.png?e=webp&d=100x100&q=80",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/home-ab-objects/restaurants_r8.png?e=webp&d=150x150&q=50",
+    "status": 200,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_background/elcarnal-1660837530157.jpg?e=webp&q=70&d=300x300",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_background/ppc-1661185137342.jpg?e=webp&q=70&d=300x300",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_background/burger_king-1659039026876-1659041252983.jpg?e=webp&q=70&d=300x300",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_background/6d255df9-d5f7-4777-b85c-d4c85c76c59e-1665513814096.png?e=webp&q=70&d=300x300",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_background/cotaqueriadonclemente-1669137833806.jpg?e=webp&q=70&d=300x300",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=544894035678829&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=https%3A%2F%2Fwww.rappi.com.co%2F&if=false&ts=1775355332916&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=2492.699999809265&it=1775355332879&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf0&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=200737147691461&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=https%3A%2F%2Fwww.rappi.com.co%2F&if=false&ts=1775355332931&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=2492.699999809265&it=1775355332879&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf0&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain"
+  },
+  {
+    "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=200737147691461&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=https%3A%2F%2Fwww.rappi.com.co%2F&if=false&ts=1775355332931&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=2492.699999809265&it=1775355332879&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf0&rqm=FGET",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=544894035678829&ev=PageView&dl=https%3A%2F%2Fwww.rappi.com.co%2F&rl=https%3A%2F%2Fwww.rappi.com.co%2F&if=false&ts=1775355332916&sw=1440&sh=1200&v=2.9.291&r=stable&a=tmgoogletagmanager&ec=0&o=4126&fbp=fb.2.1775355287328.192613077550491762&ler=empty&cdl=API_unavailable&pmd[title]=Pide%20Comida%20a%20Domicilio%20y%20mucho%20m%C3%A1s%20-%20Rappi%20Colombia&pmd[locale]=es&pmd[description]=Pide%20domicilio%20de%20restaurantes%2C%20mercado%2C%20medicamentos%20y%20%C2%A1mucho%20m%C3%A1s!%20Tus%20tiendas%20favoritas%20est%C3%A1n%20en%20Rappi.%20Entregamos%20con%20amor%20en%20toda%20Colombia%20%E2%99%A5%E2%99%A5&plt=2492.699999809265&it=1775355332879&coo=false&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf0&rqm=FGET",
+    "status": 200,
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://www.rappi.com.co/mf-header/static/ProductReplacement-88bf7020.js",
+    "status": 200,
+    "content_type": "text/javascript"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-suggestions",
+    "status": 200,
+    "content_type": "application/json; charset=UTF-8"
+  },
+  {
+    "url": "https://images.rappi.com/products/371332a0-d547-4503-8e2e-e68587b86bd2-1679877198938.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp2422730910964821448818315940.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp121619548751328886607862613.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp307612372789720917199404980.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp84348636348503567154251902.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/2089966667-1612888067250.jpg?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp143130498179670736021308476.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp3077259312451854780910054136.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp3075780313261256745713970159.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp3076497610119931419230227089.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp307724335379437631287701516.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp307624952460683609720503314.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/2095092045-1666731886803.jpg?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/fdb01e6b-511e-4d71-8b65-a07d9f4f360b-1656332820835.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp3075841310908212443131322195.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/restaurants_logo/900275450_1667400632579.jpg?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp31857475258992777609992843.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://images.rappi.com/products/tmp84333424130058678789033953.png?d=50x50&e=webp",
+    "status": 200,
+    "content_type": "image/webp"
+  }
+]

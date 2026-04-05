@@ -1,0 +1,58 @@
+[
+  {
+    "idx": 1,
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_json\\1_home.json"
+  },
+  {
+    "idx": 2,
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_json\\2_home.json"
+  },
+  {
+    "idx": 3,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_json\\3_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 4,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_json\\4_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 5,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_json\\5_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 6,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_json\\6_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 7,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_json\\7_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 8,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-suggestions",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_json\\8_unified_suggestions.json"
+  }
+]

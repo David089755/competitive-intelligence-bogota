@@ -1,0 +1,282 @@
+[
+  {
+    "idx": 1,
+    "url": "https://sr-client-cfg.amplitude.com/config/101be7b7fdda892d329579012e8dd69a?config_group=browser",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\1_101be7b7fdda892d329579012e8dd69a.json"
+  },
+  {
+    "idx": 2,
+    "url": "https://sr-client-cfg.amplitude.com/config/101be7b7fdda892d329579012e8dd69a?config_group=browser",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\2_101be7b7fdda892d329579012e8dd69a.json"
+  },
+  {
+    "idx": 3,
+    "url": "https://www.rappi.com.co/mf-header/rappi-microfront-manifest.json",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\3_rappi_microfront_manifest_json.json"
+  },
+  {
+    "idx": 4,
+    "url": "https://www.rappi.com.co/api/cloudfront-location",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\4_cloudfront_location.json"
+  },
+  {
+    "idx": 5,
+    "url": "https://services.grability.rappi.com/api/rocket/v2/guest/passport/",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\5_.json"
+  },
+  {
+    "idx": 6,
+    "url": "https://services.grability.rappi.com/api/rocket/v2/guest/passport/",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\6_.json"
+  },
+  {
+    "idx": 7,
+    "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\7_gen_204.json"
+  },
+  {
+    "idx": 8,
+    "url": "https://services.grability.rappi.com/api/rocket/v2/guest",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\8_guest.json"
+  },
+  {
+    "idx": 9,
+    "url": "https://r.lr-ingest.com/i?a=ttasrx%2Frappi-webv&r=6-019d5bf9-f98b-79e7-8184-fa0d7856a240&t=8ff5e994-7513-4fb1-988b-7e6767bd613d&s=0&ro=t&st=web&rs=0%2Cu",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\9_i.json"
+  },
+  {
+    "idx": 10,
+    "url": "https://services.grability.rappi.com/api/rocket/v2/guest",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\10_guest.json"
+  },
+  {
+    "idx": 11,
+    "url": "https://wa.onelink.me/v1/onelink",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\11_onelink.json"
+  },
+  {
+    "idx": 12,
+    "url": "https://services.grability.rappi.com/home/high/?lat=4.6755234&lng=-74.0498693&source=web",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\12_.json"
+  },
+  {
+    "idx": 13,
+    "url": "https://wa.appsflyersdk.com/events?site-id=8907ea6f-f962-475e-abea-80648586c85f",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\13_events.json"
+  },
+  {
+    "idx": 14,
+    "url": "https://services.grability.rappi.com/home/high/?lat=6.208165&lng=-75.569471&source=web",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\14_.json"
+  },
+  {
+    "idx": 15,
+    "url": "https://services.grability.rappi.com/api/web-gateway/web/dynamic/context/content/",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\15_.json"
+  },
+  {
+    "idx": 16,
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\16_httpapi.json"
+  },
+  {
+    "idx": 17,
+    "url": "https://services.grability.rappi.com/api/web-gateway/web/dynamic/context/content/",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\17_.json"
+  },
+  {
+    "idx": 18,
+    "url": "https://wa.onelink.me/v1/onelink?af_id=81718fcb-e0c7-4079-b7d3-49733ff348a2-p",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\18_onelink.json"
+  },
+  {
+    "idx": 19,
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\19_httpapi.json"
+  },
+  {
+    "idx": 20,
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\20_home.json"
+  },
+  {
+    "idx": 21,
+    "url": "https://services.grability.rappi.com/api/restaurant-bus/stores/catalog-paged/home",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\21_home.json"
+  },
+  {
+    "idx": 22,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\22_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 23,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\23_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 24,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\24_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 25,
+    "url": "https://content.hotjar.io/?site_id=1897366&gzip=1",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\25_.json"
+  },
+  {
+    "idx": 26,
+    "url": "https://services.grability.rappi.com/api/ms/address/autocomplete?lat=6.208165&lng=-75.569471&text=Chapinero%20Alto%2C%20Bogot%C3%A1&source=locationservices",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\26_autocomplete.json"
+  },
+  {
+    "idx": 27,
+    "url": "https://services.grability.rappi.com/api/ms/address/place-details?placeid=AQAAAFUACVgqTY6bf5h_ujaM8RkTQqg2ICl91BcRata3JOdTsKomauXAza64ejBi85XGqaU3Va36sB4dyv3PDiNudBokCxfJ0uPgzZUiO6FoQ2-2ZLpBrX17a5_qRJiB2EamOjPaFKjf2GSg8dGVbqbkY3-z0LL3fKHr&source=locationservices&raw=false&strictbounds=true",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\27_place_details.json"
+  },
+  {
+    "idx": 28,
+    "url": "https://r.lr-ingest.com/i?a=ttasrx%2Frappi-webv&r=6-019d5bf9-f98b-79e7-8184-fa0d7856a240&t=57253827-6cf3-4062-ae81-bd363ea6c688&s=0&ro=t&st=web&rs=0%2Cu",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\28_i.json"
+  },
+  {
+    "idx": 29,
+    "url": "https://sr-client-cfg.amplitude.com/config/101be7b7fdda892d329579012e8dd69a?config_group=browser",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\29_101be7b7fdda892d329579012e8dd69a.json"
+  },
+  {
+    "idx": 30,
+    "url": "https://www.rappi.com.co/mf-header/rappi-microfront-manifest.json",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\30_rappi_microfront_manifest_json.json"
+  },
+  {
+    "idx": 31,
+    "url": "https://content.hotjar.io/?site_id=1897366&gzip=1",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\31_.json"
+  },
+  {
+    "idx": 32,
+    "url": "https://wa.appsflyersdk.com/events?site-id=8907ea6f-f962-475e-abea-80648586c85f",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\32_events.json"
+  },
+  {
+    "idx": 33,
+    "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\33_gen_204.json"
+  },
+  {
+    "idx": 34,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\34_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 35,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-recent-top-searches",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\35_unified_recent_top_searches.json"
+  },
+  {
+    "idx": 36,
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\36_httpapi.json"
+  },
+  {
+    "idx": 37,
+    "url": "https://sr-client-cfg.amplitude.com/config/101be7b7fdda892d329579012e8dd69a?config_group=browser",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\37_101be7b7fdda892d329579012e8dd69a.json"
+  },
+  {
+    "idx": 38,
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\38_httpapi.json"
+  },
+  {
+    "idx": 39,
+    "url": "https://services.grability.rappi.com/api/pns-global-search-api/v1/unified-suggestions",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "saved_to": "output\\debug_menu_json_before\\39_unified_suggestions.json"
+  },
+  {
+    "idx": 40,
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "status": 200,
+    "content_type": "application/json",
+    "saved_to": "output\\debug_menu_json_before\\40_httpapi.json"
+  }
+]
